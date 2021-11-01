@@ -1,6 +1,6 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: iamalexblue # Your GitHub organization or username, where this repository lives
+repo: siteuptime # The name of this repository
 
 sites:
   - name: iamalex.blue
@@ -20,17 +20,15 @@ status-website:
   cname: status.iamalex.blue
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Site Status Page
+  name: Site Status
   introTitle: "**iamalex.blue** uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
-    - title: Status
-      href: siteuptime
+    - title: Homepage
+      href: https://iamalex.blue
     - title: GitHub
       href: https://github.com/iamalexblue
-    - title: iamalex.blue
-      href: https://iamalex.blue
-    - title: Contact Us
+    - title: Contact Me
       href: mailto:alex@iamalex.blue
 
 workflowSchedule:

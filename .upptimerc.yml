@@ -9,8 +9,8 @@ sites:
     url: https://music.iamalex.blue
   - name: Onedrive Index
     url: https://drive.iamalex.blue
-  - name: Blog
-    url: https://blog.iamalex.blue
+  - name: Notion Page
+    url: https://notion.iamalex.blue
   - name: Logseq Publish Page
     url: https://congjinyebaiya.wang
 

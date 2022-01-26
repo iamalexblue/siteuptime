@@ -48,9 +48,9 @@
     "url": "https://drive.iamalex.blue",
     "icon": "https://favicons.githubusercontent.com/drive.iamalex.blue",
     "slug": "onedrive-index",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -59,7 +59,9 @@
     "timeWeek": 126,
     "timeMonth": 301,
     "timeYear": 373,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-26": 0
+    }
   },
   {
     "name": "Notion Page",
@@ -67,11 +69,11 @@
     "icon": "https://favicons.githubusercontent.com/notion.iamalex.blue",
     "slug": "notion-page",
     "status": "up",
-    "uptime": "96.27%",
+    "uptime": "96.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.27%",
+    "uptimeYear": "96.28%",
     "time": 462,
     "timeDay": 407,
     "timeWeek": 507,

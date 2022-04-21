@@ -9,10 +9,14 @@ sites:
     url: https://music.iamalex.blue
   - name: Onedrive Index
     url: https://share.iamalex.blue
-  - name: Notion Page
+  - name: Notion blog
     url: https://notion.iamalex.blue
-  - name: Logseq Publish Page
-    url: https://congjinyebaiya.wang
+  - name: Notion
+    url: https://www.notion.so
+  - name: Dynalist
+    url: https://dynalist.io
+  
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

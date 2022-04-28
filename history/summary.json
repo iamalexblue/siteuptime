@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "99.13%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.02%",
+    "uptimeWeek": "96.50%",
     "uptimeMonth": "96.17%",
     "uptimeYear": "99.13%",
     "time": 537,
@@ -129,19 +129,19 @@
     "url": "https://dynalist.io",
     "icon": "https://favicons.githubusercontent.com/dynalist.io",
     "slug": "dynalist",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 162,
-    "timeDay": 155,
-    "timeWeek": 162,
-    "timeMonth": 162,
-    "timeYear": 162,
+    "status": "up",
+    "uptime": "99.50%",
+    "uptimeDay": "96.64%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.50%",
+    "time": 158,
+    "timeDay": 146,
+    "timeWeek": 158,
+    "timeMonth": 158,
+    "timeYear": 158,
     "dailyMinutesDown": {
-      "2022-04-28": 0
+      "2022-04-28": 48
     }
   }
 ]

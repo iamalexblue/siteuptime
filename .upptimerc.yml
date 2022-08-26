@@ -13,13 +13,8 @@ sites:
     url: https://share.iamalex.blue
   - name: Notion blog
     url: https://notion.iamalex.blue
-  - name: 1 Password
-    url: https://1password.statuspage.io
   - name: Notion
     url: https://www.notion.so
-  - name: Dynalist
-    url: https://dynalist.io
-  
 
 
 status-website:

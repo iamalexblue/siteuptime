@@ -5,14 +5,12 @@ repo: siteuptime # The name of this repository
 sites:
   - name: iamalex.blue
     url: https://iamalex.blue
-  - name: congjinyebai
-    url: https://congjinyebai.red
   - name: Music
     url: https://music.iamalex.blue
   - name: Onedrive Index
     url: https://share.iamalex.blue
   - name: Notion blog
-    url: https://notion.iamalex.blue
+    url: https://iamalexblue.notion.site
   - name: Notion
     url: https://www.notion.so
 

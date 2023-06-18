@@ -3,16 +3,16 @@ owner: iamalexblue # Your GitHub organization or username, where this repository
 repo: siteuptime # The name of this repository
 
 sites:
-  - name: iamalex.blue
+  - name: Homepage
     url: https://iamalex.blue
-  - name: Music
-    url: https://music.iamalex.blue
+  - name: iFruit-Xlog
+    url: https://ifruit.club
   - name: Onedrive Index
     url: https://share.iamalex.blue
   - name: Notion blog
     url: https://iamalexblue.notion.site
-  - name: Notion
-    url: https://www.notion.so
+  - name: Chat-web
+    url: https://chat.iamalex.blue
 
 
 status-website:

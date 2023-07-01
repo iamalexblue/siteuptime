@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/iamalex.blue.ico",
     "slug": "homepage",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.22%",
+    "uptimeDay": "90.07%",
+    "uptimeWeek": "98.58%",
+    "uptimeMonth": "99.22%",
+    "uptimeYear": "99.22%",
     "time": 1124,
     "timeDay": 1013,
     "timeWeek": 1003,
     "timeMonth": 1124,
     "timeYear": 1124,
     "dailyMinutesDown": {
-      "2023-06-30": 0
+      "2023-07-01": 103,
+      "2023-06-30": 40
     }
   },
   {
@@ -51,8 +52,8 @@
     "time": 297,
     "timeDay": 139,
     "timeWeek": 190,
-    "timeMonth": 244,
-    "timeYear": 313,
+    "timeMonth": 239,
+    "timeYear": 312,
     "dailyMinutesDown": {}
   },
   {
@@ -69,8 +70,8 @@
     "time": 478,
     "timeDay": 155,
     "timeWeek": 618,
-    "timeMonth": 411,
-    "timeYear": 459,
+    "timeMonth": 410,
+    "timeYear": 458,
     "dailyMinutesDown": {
       "2023-03-27": 53,
       "2022-08-22": 52

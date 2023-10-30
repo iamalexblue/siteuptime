@@ -25,10 +25,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.iamalex.blue
   # baseUrl: /your-repo-name
-  logoUrl: https://github.com/iamalexblue/jsDelivrCDN/blob/7ef82a2f377c2e236f819038d9ac2ecc9967d9b8/1688297689580upptime_icon.png
-  name: Web-watch
+  logoUrl: https://github.com/iamalexblue/jsDelivrCDN/blob/master/static/IMG_4872.jpeg
+  name: Web-status Watch
   introTitle: "**iamalex.blue** uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: 🍋 从今夜白
       href: https://iamalex.blue

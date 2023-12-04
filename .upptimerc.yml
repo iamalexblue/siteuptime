@@ -5,18 +5,26 @@ repo: siteuptime # The name of this repository
 sites:
   - name: 从今夜白
     url: https://iamalex.blue
-  - name: iFruit-Xlog
+  - name: Blue Wonderland
     url: https://ifruit.club
   - name: Music
     url: https://music.iamalex.blue
+  - name: metacubexd
+    url: https://d.iamalex.blue
+  - name: yacd
+    url: https://dash.ifruit.club
+  - name: sing-box-sub
+    url: https://sing-box.ifruit.club
   - name: Notion blog
     url: https://iamalexblue.notion.site
-  - name: Chat-web
+  - name: ChatGPT-Web-Next
     url: https://chat.iamalex.blue
   - name: RSS-Hub
     url: https:/rss-hub.iamalex.blue
   - name: Koo-Reader
     url: https://reader.iamalex.blue
+  - name: Status
+    url: https://status.iamalex.blue
   
 
 

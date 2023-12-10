@@ -6,16 +6,17 @@
     "slug": "",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.58%",
-    "uptimeYear": "73.86%",
+    "uptimeYear": "74.20%",
     "time": 422,
     "timeDay": 249,
     "timeWeek": 268,
     "timeMonth": 345,
     "timeYear": 422,
     "dailyMinutesDown": {
+      "2023-12-10": 0,
       "2023-11-18": 182,
       "2023-07-02": 360,
       "2023-07-01": 992,
@@ -41,9 +42,9 @@
     "url": "https://ifruit.club",
     "icon": "https://icons.duckduckgo.com/ip3/ifruit.club.ico",
     "slug": "blue-wonderland",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -52,7 +53,9 @@
     "timeWeek": 351,
     "timeMonth": 351,
     "timeYear": 351,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-10": 0
+    }
   },
   {
     "name": "Music",
@@ -207,9 +210,9 @@
     "slug": "status",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.65%",
+    "uptimeMonth": "97.86%",
     "uptimeYear": "0.00%",
     "time": 130,
     "timeDay": 57,
@@ -217,6 +220,7 @@
     "timeMonth": 130,
     "timeYear": 130,
     "dailyMinutesDown": {
+      "2023-12-10": 0,
       "2023-11-18": 182,
       "2023-07-02": 360,
       "2023-07-01": 992,

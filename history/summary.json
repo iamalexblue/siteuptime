@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/iamalex.blue.ico",
     "slug": "",
     "status": "up",
-    "uptime": "0.00%",
+    "uptime": "0.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.36%",
+    "uptimeYear": "95.91%",
     "time": 383,
-    "timeDay": 568,
-    "timeWeek": 347,
-    "timeMonth": 449,
+    "timeDay": 326,
+    "timeWeek": 350,
+    "timeMonth": 456,
     "timeYear": 383,
     "dailyMinutesDown": {
       "2024-03-25": 59,
@@ -28,8 +28,7 @@
       "2023-05-14": 1440,
       "2023-05-13": 1440,
       "2023-05-12": 1440,
-      "2023-05-11": 1440,
-      "2023-05-10": 1440
+      "2023-05-11": 1440
     }
   },
   {
@@ -43,11 +42,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 484,
-    "timeDay": 457,
-    "timeWeek": 535,
-    "timeMonth": 581,
-    "timeYear": 484,
+    "time": 483,
+    "timeDay": 348,
+    "timeWeek": 483,
+    "timeMonth": 565,
+    "timeYear": 483,
     "dailyMinutesDown": {
       "2024-01-18": 61,
       "2023-12-10": 121
@@ -65,9 +64,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 358,
-    "timeDay": 607,
-    "timeWeek": 296,
-    "timeMonth": 286,
+    "timeDay": 281,
+    "timeWeek": 306,
+    "timeMonth": 285,
     "timeYear": 360,
     "dailyMinutesDown": {}
   },
@@ -82,11 +81,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 321,
-    "timeDay": 209,
-    "timeWeek": 272,
-    "timeMonth": 305,
-    "timeYear": 321,
+    "time": 320,
+    "timeDay": 154,
+    "timeWeek": 231,
+    "timeMonth": 300,
+    "timeYear": 320,
     "dailyMinutesDown": {}
   },
   {
@@ -101,9 +100,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 169,
-    "timeDay": 232,
-    "timeWeek": 175,
-    "timeMonth": 162,
+    "timeDay": 139,
+    "timeWeek": 184,
+    "timeMonth": 163,
     "timeYear": 169,
     "dailyMinutesDown": {}
   },
@@ -119,9 +118,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1317,
-    "timeDay": 1262,
-    "timeWeek": 1201,
-    "timeMonth": 1247,
+    "timeDay": 1362,
+    "timeWeek": 1237,
+    "timeMonth": 1245,
     "timeYear": 1317,
     "dailyMinutesDown": {}
   },
@@ -136,10 +135,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 387,
-    "timeDay": 174,
-    "timeWeek": 263,
-    "timeMonth": 237,
+    "time": 386,
+    "timeDay": 264,
+    "timeWeek": 272,
+    "timeMonth": 240,
     "timeYear": 345,
     "dailyMinutesDown": {
       "2024-03-25": 59
@@ -156,11 +155,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 283,
-    "timeDay": 329,
-    "timeWeek": 333,
-    "timeMonth": 284,
-    "timeYear": 283,
+    "time": 284,
+    "timeDay": 429,
+    "timeWeek": 345,
+    "timeMonth": 291,
+    "timeYear": 284,
     "dailyMinutesDown": {}
   },
   {
@@ -174,11 +173,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2637,
-    "timeDay": 2658,
-    "timeWeek": 2650,
-    "timeMonth": 2675,
-    "timeYear": 2637,
+    "time": 2636,
+    "timeDay": 2499,
+    "timeWeek": 2606,
+    "timeMonth": 2681,
+    "timeYear": 2636,
     "dailyMinutesDown": {}
   },
   {
@@ -193,9 +192,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 145,
-    "timeWeek": 257,
-    "timeMonth": 221,
+    "timeDay": 105,
+    "timeWeek": 222,
+    "timeMonth": 214,
     "timeYear": 216,
     "dailyMinutesDown": {}
   },
@@ -209,11 +208,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.30%",
+    "uptimeYear": "94.98%",
     "time": 191,
-    "timeDay": 187,
-    "timeWeek": 233,
-    "timeMonth": 192,
+    "timeDay": 95,
+    "timeWeek": 198,
+    "timeMonth": 193,
     "timeYear": 191,
     "dailyMinutesDown": {
       "2024-03-25": 59,
@@ -228,8 +227,7 @@
       "2023-05-14": 1440,
       "2023-05-13": 1440,
       "2023-05-12": 1440,
-      "2023-05-11": 1440,
-      "2023-05-10": 1440
+      "2023-05-11": 1440
     }
   }
 ]

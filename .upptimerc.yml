@@ -3,7 +3,7 @@ owner: iamalexblue # Your GitHub organization or username, where this repository
 repo: siteuptime # The name of this repository
 
 sites:
-  - name: 从今夜白
+  - name: iamalex.blue
     url: https://iamalex.blue
   - name: Blue Wonderland
     url: https://ifruit.club

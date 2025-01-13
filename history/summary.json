@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/iamalex.blue.ico",
     "slug": "iamalex-blue",
     "status": "up",
-    "uptime": "85.07%",
+    "uptime": "85.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 461,
-    "timeDay": 451,
-    "timeWeek": 345,
-    "timeMonth": 306,
-    "timeYear": 333,
+    "timeDay": 123,
+    "timeWeek": 298,
+    "timeMonth": 302,
+    "timeYear": 330,
     "dailyMinutesDown": {}
   },
   {
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 552,
-    "timeDay": 420,
-    "timeWeek": 579,
-    "timeMonth": 556,
+    "time": 551,
+    "timeDay": 457,
+    "timeWeek": 580,
+    "timeMonth": 554,
     "timeYear": 566,
     "dailyMinutesDown": {
       "2024-08-14": 57,
@@ -56,9 +56,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 336,
-    "timeDay": 408,
-    "timeWeek": 291,
-    "timeMonth": 306,
+    "timeDay": 297,
+    "timeWeek": 261,
+    "timeMonth": 303,
     "timeYear": 318,
     "dailyMinutesDown": {
       "2024-10-22": 55
@@ -76,10 +76,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 307,
-    "timeDay": 304,
-    "timeWeek": 246,
-    "timeMonth": 291,
-    "timeYear": 310,
+    "timeDay": 253,
+    "timeWeek": 243,
+    "timeMonth": 272,
+    "timeYear": 311,
     "dailyMinutesDown": {}
   },
   {
@@ -93,11 +93,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 178,
-    "timeDay": 176,
-    "timeWeek": 153,
-    "timeMonth": 201,
-    "timeYear": 176,
+    "time": 191,
+    "timeDay": 5490,
+    "timeWeek": 914,
+    "timeMonth": 370,
+    "timeYear": 191,
     "dailyMinutesDown": {}
   },
   {
@@ -112,9 +112,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1306,
-    "timeDay": 1245,
-    "timeWeek": 1092,
-    "timeMonth": 1146,
+    "timeDay": 1122,
+    "timeWeek": 1126,
+    "timeMonth": 1142,
     "timeYear": 1308,
     "dailyMinutesDown": {
       "2024-10-22": 55
@@ -132,10 +132,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 318,
-    "timeDay": 215,
-    "timeWeek": 300,
-    "timeMonth": 303,
-    "timeYear": 287,
+    "timeDay": 263,
+    "timeWeek": 291,
+    "timeMonth": 300,
+    "timeYear": 286,
     "dailyMinutesDown": {
       "2024-03-25": 59
     }
@@ -152,9 +152,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 291,
-    "timeDay": 855,
-    "timeWeek": 301,
-    "timeMonth": 301,
+    "timeDay": 145,
+    "timeWeek": 276,
+    "timeMonth": 292,
     "timeYear": 297,
     "dailyMinutesDown": {
       "2024-10-22": 53
@@ -172,10 +172,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2602,
-    "timeDay": 2688,
-    "timeWeek": 2575,
+    "timeDay": 2497,
+    "timeWeek": 2571,
     "timeMonth": 2437,
-    "timeYear": 2570,
+    "timeYear": 2569,
     "dailyMinutesDown": {
       "2024-10-22": 52
     }
@@ -192,10 +192,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 231,
-    "timeDay": 315,
-    "timeWeek": 274,
-    "timeMonth": 254,
-    "timeYear": 231,
+    "timeDay": 98,
+    "timeWeek": 266,
+    "timeMonth": 249,
+    "timeYear": 230,
     "dailyMinutesDown": {
       "2024-10-22": 50
     }
@@ -206,16 +206,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.iamalex.blue.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "52.61%",
+    "uptime": "52.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 227,
-    "timeDay": 477,
-    "timeWeek": 286,
-    "timeMonth": 239,
-    "timeYear": 234,
+    "timeDay": 298,
+    "timeWeek": 311,
+    "timeMonth": 241,
+    "timeYear": 235,
     "dailyMinutesDown": {
       "2024-10-22": 265,
       "2024-08-14": 57,

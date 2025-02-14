@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/iamalex.blue.ico",
     "slug": "iamalex-blue",
     "status": "up",
-    "uptime": "89.57%",
+    "uptime": "89.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -124,9 +124,9 @@
     "url": "https://iamalexblue.notion.site",
     "icon": "https://icons.duckduckgo.com/ip3/iamalexblue.notion.site.ico",
     "slug": "notion-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -136,6 +136,7 @@
     "timeMonth": 364,
     "timeYear": 285,
     "dailyMinutesDown": {
+      "2025-02-14": 0,
       "2024-03-25": 59
     }
   },
@@ -205,8 +206,8 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.iamalex.blue.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "56.19%",
-    "uptimeDay": "100.00%",
+    "uptime": "56.23%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
@@ -216,6 +217,7 @@
     "timeMonth": 200,
     "timeYear": 236,
     "dailyMinutesDown": {
+      "2025-02-14": 0,
       "2024-10-22": 265,
       "2024-08-14": 57,
       "2024-08-13": 69,

@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/iamalex.blue.ico",
     "slug": "iamalex-blue",
     "status": "up",
-    "uptime": "92.26%",
+    "uptime": "92.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 402,
-    "timeDay": 183,
-    "timeWeek": 298,
-    "timeMonth": 330,
-    "timeYear": 316,
+    "time": 410,
+    "timeDay": 2382,
+    "timeWeek": 579,
+    "timeMonth": 411,
+    "timeYear": 330,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 569,
-    "timeDay": 539,
-    "timeWeek": 646,
-    "timeMonth": 697,
-    "timeYear": 601,
+    "time": 570,
+    "timeDay": 430,
+    "timeWeek": 632,
+    "timeMonth": 692,
+    "timeYear": 600,
     "dailyMinutesDown": {
       "2024-08-14": 57,
       "2024-08-13": 69,
@@ -54,10 +54,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 305,
-    "timeDay": 225,
-    "timeWeek": 244,
-    "timeMonth": 288,
+    "time": 306,
+    "timeDay": 289,
+    "timeWeek": 238,
+    "timeMonth": 294,
     "timeYear": 318,
     "dailyMinutesDown": {
       "2024-10-22": 55
@@ -75,10 +75,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 303,
-    "timeDay": 290,
-    "timeWeek": 204,
-    "timeMonth": 278,
-    "timeYear": 294,
+    "timeDay": 677,
+    "timeWeek": 260,
+    "timeMonth": 297,
+    "timeYear": 295,
     "dailyMinutesDown": {}
   },
   {
@@ -93,9 +93,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 192,
-    "timeDay": 224,
-    "timeWeek": 154,
-    "timeMonth": 170,
+    "timeDay": 196,
+    "timeWeek": 148,
+    "timeMonth": 171,
     "timeYear": 198,
     "dailyMinutesDown": {}
   },
@@ -111,10 +111,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1288,
-    "timeDay": 1234,
-    "timeWeek": 1128,
-    "timeMonth": 1250,
-    "timeYear": 1268,
+    "timeDay": 1347,
+    "timeWeek": 1145,
+    "timeMonth": 1251,
+    "timeYear": 1271,
     "dailyMinutesDown": {
       "2024-10-22": 55
     }
@@ -131,13 +131,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 306,
-    "timeDay": 260,
-    "timeWeek": 261,
-    "timeMonth": 283,
+    "timeDay": 264,
+    "timeWeek": 251,
+    "timeMonth": 282,
     "timeYear": 292,
     "dailyMinutesDown": {
-      "2025-02-14": 69,
-      "2024-03-25": 59
+      "2025-02-14": 69
     }
   },
   {
@@ -152,10 +151,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 292,
-    "timeDay": 266,
-    "timeWeek": 412,
-    "timeMonth": 300,
-    "timeYear": 295,
+    "timeDay": 168,
+    "timeWeek": 345,
+    "timeMonth": 303,
+    "timeYear": 294,
     "dailyMinutesDown": {
       "2024-10-22": 53
     }
@@ -172,9 +171,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2561,
-    "timeDay": 2684,
-    "timeWeek": 1930,
-    "timeMonth": 2456,
+    "timeDay": 2782,
+    "timeWeek": 1932,
+    "timeMonth": 2467,
     "timeYear": 2555,
     "dailyMinutesDown": {
       "2024-10-22": 52
@@ -191,10 +190,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 228,
-    "timeDay": 188,
-    "timeWeek": 209,
-    "timeMonth": 221,
+    "time": 229,
+    "timeDay": 217,
+    "timeWeek": 184,
+    "timeMonth": 223,
     "timeYear": 236,
     "dailyMinutesDown": {
       "2024-10-22": 50
@@ -206,16 +205,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.iamalex.blue.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "59.68%",
+    "uptime": "59.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 225,
-    "timeDay": 250,
-    "timeWeek": 219,
-    "timeMonth": 230,
-    "timeYear": 235,
+    "timeDay": 221,
+    "timeWeek": 218,
+    "timeMonth": 231,
+    "timeYear": 236,
     "dailyMinutesDown": {
       "2025-02-14": 69,
       "2024-10-22": 265,
@@ -225,8 +224,7 @@
       "2024-08-02": 61,
       "2024-07-23": 127,
       "2024-05-27": 66,
-      "2024-05-22": 61,
-      "2024-03-25": 59
+      "2024-05-22": 61
     }
   }
 ]

@@ -1,7 +1,7 @@
 url: https://dash.ifruit.club
-status: up
-code: 200
-responseTime: 399
-lastUpdated: 2025-11-17T23:24:18.703Z
+status: down
+code: 500
+responseTime: 66
+lastUpdated: 2025-11-18T12:26:10.391Z
 startTime: 2023-12-04T16:20:45.796Z
 generator: Upptime <https://github.com/upptime/upptime>

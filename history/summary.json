@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.56%",
+    "uptimeYear": "93.57%",
     "time": 300,
     "timeDay": 202,
     "timeWeek": 331,
@@ -173,7 +173,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.73%",
+    "uptimeYear": "98.75%",
     "time": 261,
     "timeDay": 0,
     "timeWeek": 0,
@@ -197,7 +197,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.35%",
+    "uptimeYear": "99.37%",
     "time": 253,
     "timeDay": 124,
     "timeWeek": 160,
@@ -213,10 +213,10 @@
     "url": "https://dash.ifruit.club",
     "icon": "https://icons.duckduckgo.com/ip3/dash.ifruit.club.ico",
     "slug": "yacd",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 209,
@@ -225,7 +225,8 @@
     "timeMonth": 177,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2025-11-18": 168
+      "2025-11-18": 168,
+      "2026-08-25": 2
     }
   },
   {
@@ -233,10 +234,10 @@
     "url": "https://sing-box.ifruit.club",
     "icon": "https://icons.duckduckgo.com/ip3/sing-box.ifruit.club.ico",
     "slug": "sing-box-sub",
-    "status": "up",
+    "status": "down",
     "uptime": "88.38%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "68.35%",
     "time": 926,
@@ -367,7 +368,8 @@
       "2025-12-21": 1440,
       "2025-12-20": 1440,
       "2025-12-19": 1440,
-      "2025-12-18": 693
+      "2025-12-18": 693,
+      "2026-08-25": 1
     }
   },
   {
@@ -397,7 +399,7 @@
     "uptime": "76.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "44.89%",
+    "uptimeMonth": "45.05%",
     "uptimeYear": "35.32%",
     "time": 920,
     "timeDay": 0,
@@ -656,18 +658,20 @@
     "url": "https:/rss-hub.iamalex.blue",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rss-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "89.13%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 649,
+    "time": 645,
     "timeDay": 604,
     "timeWeek": 427,
     "timeMonth": 797,
     "timeYear": 775,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-25": 1
+    }
   },
   {
     "name": "Koo-Reader",
@@ -693,9 +697,9 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.iamalex.blue.ico",
     "slug": "status",
     "status": "down",
-    "uptime": "59.79%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
+    "uptime": "59.82%",
+    "uptimeDay": "94.93%",
+    "uptimeWeek": "99.28%",
     "uptimeMonth": "44.88%",
     "uptimeYear": "28.60%",
     "time": 1549,
@@ -986,7 +990,7 @@
       "2025-12-20": 1440,
       "2025-12-19": 1440,
       "2025-12-18": 693,
-      "2026-08-25": 1
+      "2026-08-25": 73
     }
   }
 ]
